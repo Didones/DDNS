@@ -1,0 +1,2 @@
+# DDNS
+ALgumas ideias DDNS
